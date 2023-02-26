@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Anastasia Bodnyuk! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">✨ I'm beginner frontend developer. Welcome to my GITHUB page ✨</h3>
+__________
 
-<!--
-**Chill-Peppa/Chill-Peppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technologies & Tools:
+<div> 
+<img src="./images/html5.svg" height="32"/>
+<img src="./images/css3.svg" height="32"/>
+<img src="./images/javascript.svg" height="32"/>
+<img src="./images/react.svg" height="32"/>
+<img src="./images/webpack.svg" height="32"/>
+<img src="./images/figma.svg" height="32"/>
+<img src="./images/git.svg" height="32"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My contacts for communication:
+📫 telegram: https://t.me/chill-peppa
+📫 mail: www.nastya97@yandex.ru
