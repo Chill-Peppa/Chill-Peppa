@@ -13,6 +13,6 @@
 <img src="./images/git.svg" height="32"/>
 </div>
 
-**:envelope: My contacts for communication:**
+**My contacts for communication:**
 * telegram: https://t.me/chill-peppa
 * mail: www.nastya97@yandex.ru
