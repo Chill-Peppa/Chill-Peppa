@@ -19,7 +19,8 @@
 * telegram: https://t.me/chill-peppa
 * mail: www.nastya97@yandex.ru
 
-**Stats:**
+**Another information:**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chill-Peppa)](https://github.com/Chill-Peppa/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Chill-Peppa&color=blueviolet)
