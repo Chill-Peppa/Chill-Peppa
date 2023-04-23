@@ -2,8 +2,8 @@
 <h3 align="center">✨ I'm a beginner frontend developer. Welcome to my GITHUB page! ✨</h3>
 
 
-**Technologies & Tools:**
-<div> 
+<h3 align="center">Technologies & Tools:</h3>
+<div align="center"> 
 <img src="./images/html.svg" height="32" alt='HTML'/>
 <img src="./images/css.svg" height="32" alt='CSS'/>
 <img src="./images/javascript.svg" height="32" alt='JavaScript'/>
@@ -15,12 +15,12 @@
 <img src="./images/npm.svg" height="32" alt='NPM'/>
 </div>
 
-**My contacts for communication:**
-* telegram: https://t.me/chill-peppa
-* mail: www.nastya97@yandex.ru
+<h3 align="center">My contacts for communication:</h3>
+<ul align="center">
+<li>telegram: https://t.me/chill-peppa</li>
+<li>mail: www.nastya97@yandex.ru</li>
+</ul>
 
-**Another information:**
+<h3 align="center">Another information:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chill-Peppa)](https://github.com/Chill-Peppa/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=Chill-Peppa&color=blueviolet)
