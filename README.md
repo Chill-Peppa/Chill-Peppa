@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Anastasia Bodnyuk <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">✨ I'm a beginner frontend developer. Welcome to my GITHUB page! ✨</h2>
+<h2 align="center">I'm a beginner frontend developer. Welcome to my GITHUB page!</h2>
 
 
 <h3>Technologies & Tools:</h3>
@@ -13,6 +13,8 @@
 <img src="./images/git.svg" height="32" alt='GIT'/>
 <img src="./images/scss.svg" height="32" alt='SCSS'/>
 <img src="./images/npm.svg" height="32" alt='NPM'/>
+<img src="./images/nodejs.svg" height="32" alt='Node.js'/>
+<img src="./images/mongodb.svg" height="32" alt='MongoDB'/>
 </div>
 
 <h3>My contacts for communication:</h3>
@@ -21,6 +23,6 @@
 <li>mail: www.nastya97@yandex.ru</li>
 </ul>
 
-<h3>Another information:</h3>
+<h3>Profile stats:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chill-Peppa)](https://github.com/Chill-Peppa/github-readme-stats)
