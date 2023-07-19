@@ -1,6 +1,5 @@
-<h1 align="center">Hi there, I'm Anastasia Bodnyuk <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Anastasia Bodnyuk <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 <h2 align="center">I'm a beginner frontend developer. Welcome to my GITHUB page!</h2>
-
 
 <h3>Technologies & Tools:</h3>
 <div> 
