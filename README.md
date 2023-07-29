@@ -14,6 +14,8 @@
 <img src="./images/npm.svg" height="32" alt='NPM'/>
 <img src="./images/nodejs.svg" height="32" alt='Node.js'/>
 <img src="./images/mongodb.svg" height="32" alt='MongoDB'/>
+<img src="./images/vercel.svg" height="32" alt='Vercel'/>
+<img src="./images/antdesign.svg" height="32" alt='AntDesign'/>
 </div>
 
 <h3>My contacts for communication:</h3>
