@@ -3,8 +3,9 @@
 <p>Hi, I’m @chill-peppa.<br/> I’m a beginner frontend developer from St.Petersburg, Russia.</p>
 
 - At the moment I’m studying typescript and redux. Also I’m studying React in depth.
-- I’m writing a training project [Stellar Burgers](https://github.com/Chill-Peppa/react-burger)
-- If I have free time, then I’m working on a project [Portal ECB](https://github.com/Chill-Peppa/antdesign)
+- I’m writing a training project [Stellar Burgers](https://github.com/Chill-Peppa/react-burger).
+- If I have free time, then I’m working on a project [Portal ECB](https://github.com/Chill-Peppa/antdesign).
+- If you want communicate with me just write to me on [telegram](https://t.me/chill_peppa).
 
 ## 🛠️ Technologies and Tools:
 
@@ -33,14 +34,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chill-peppa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=Chill-Peppa&color=blue)
-
-## 📧 My contacts for communication:
-
-<div style="display:flex; gap: 10px;">
-  <a href="https://t.me/chill_peppa">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
-  </a>
-  <a href="mailto:www.nastya97@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=maildotru&logoColor=white" alt="email"/>
-  </a>
-</div>
