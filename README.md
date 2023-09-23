@@ -37,7 +37,7 @@
 ## 📧 My contacts for communication:
 
 <div style="display:flex; gap: 10px;">
-  <a href="https://t.me/chill-peppa">
+  <a href="https://t.me/chill_peppa">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
   <a href="mailto:www.nastya97@yandex.ru">
