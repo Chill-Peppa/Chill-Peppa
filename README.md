@@ -32,9 +32,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chill-peppa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## My contacts for communication:
+## 📧 My contacts for communication:
 
-<div style="display:flex; gap: 10px; margin-bottom: 0.3em;">
+<div style="display:flex; gap: 10px; margin-bottom: 35px;">
   <a href="https://t.me/chill-peppa">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
