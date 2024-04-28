@@ -3,7 +3,7 @@
 <p>Hi, I’m @chill-peppa.<br/> I’m a beginner frontend developer from St.Petersburg, Russia.</p>
 
 - At the moment I’m studying Next.js and Redux Toolkit. Also I’m studying React in depth.
-- I’m regular resolve issues on Codewars.
+- I’m regularly solving katas on Codewars
 - If I have free time I’m working on a pet-project [E-pass](https://github.com/e-pass/web).
 - If you want communicate with me just write to me on [telegram](https://t.me/chill_peppa).
 
