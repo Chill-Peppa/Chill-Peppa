@@ -2,9 +2,9 @@
 
 <p>Hi, I’m @chill-peppa.<br/> I’m a beginner frontend developer from St.Petersburg, Russia.</p>
 
-- At the moment I’m studying typescript and redux. Also I’m studying React in depth.
-- I’m writing a training project [Stellar Burgers](https://github.com/Chill-Peppa/react-burger).
-- If I have free time, then I’m working on a project [Portal ECB](https://github.com/Chill-Peppa/antdesign).
+- At the moment I’m studying Next.js and Redux Toolkit. Also I’m studying React in depth.
+- I’m regular resolve issues on Codewars.
+- If I have free time I’m working on a pet-project [E-pass] (https://github.com/e-pass/web).
 - If you want communicate with me just write to me on [telegram](https://t.me/chill_peppa).
 
 ## 🛠️ Technologies and Tools:
@@ -27,10 +27,12 @@
 
 ## 📂 Portfolio:
 
-(тут потом будет ссылка на мое портфолио)
+(когда-нибудь я сделаю красивое портфолио и выложу его сюда...)
 
 ## 📊 Profile stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chill-peppa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+https://www.codewars.com/users/chill-peppa/badges/small
 
 ![](https://komarev.com/ghpvc/?username=Chill-Peppa&color=blue)
