@@ -4,7 +4,7 @@
 
 - At the moment I’m studying Next.js and Redux Toolkit. Also I’m studying React in depth.
 - I’m regular resolve issues on Codewars.
-- If I have free time I’m working on a pet-project [E-pass] (https://github.com/e-pass/web).
+- If I have free time I’m working on a pet-project [E-pass](https://github.com/e-pass/web).
 - If you want communicate with me just write to me on [telegram](https://t.me/chill_peppa).
 
 ## 🛠️ Technologies and Tools:
@@ -23,6 +23,9 @@
 <img src="./images/mongodb.svg" height="32" alt='MongoDB'/>
 <img src="./images/vercel.svg" height="32" alt='Vercel'/>
 <img src="./images/antdesign.svg" height="32" alt='AntDesign'/>
+<img src="./images/ts.svg" height="32" alt='TypeScript'/>
+<img src="./images/redux.svg" height="32" alt='Rudux'/>
+<img src="./images/next.svg" height="32" alt='Next.js'/>
 </div>
 
 ## 📂 Portfolio:
@@ -33,6 +36,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chill-peppa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-https://www.codewars.com/users/chill-peppa/badges/small
+![](https://www.codewars.com/users/chill-peppa/badges/small)
 
 ![](https://komarev.com/ghpvc/?username=Chill-Peppa&color=blue)
