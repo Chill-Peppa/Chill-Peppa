@@ -10,7 +10,8 @@
 ## 🛠️ Technologies and Tools:
 
 <div style="display:flex; gap: 10px;"> 
-<img src="https://img.shields.io/badge/JavaScript-CCCCFF?style=for-the-badge&logo=javascript&logoColor=CCCCFF"  style="color: pink;"/>
+<img src="https://img.shields.io/badge/JavaScript-545454?style=for-the-badge&logo=javascript&logoColor=CCCCFF"  style="color: pink;"/>
+![Photoshop](https://img.shields.io/badge/Photoshop-%2320232a.svg?style=flat-square&logo=adobephotoshop&logoColor=%2361DAFB)
 <!-- <img src="./images/html.svg" height="32" alt='HTML'/>
 <img src="./images/css.svg" height="32" alt='CSS'/>
 <img src="./images/javascript.svg" height="32" alt='JavaScript'/>
