@@ -1,10 +1,10 @@
 ## 🖖 About me:
 
-<p>Hi, I’m @chill-peppa.<br/> I’m a beginner frontend developer from St.Petersburg, Russia.</p>
+<p>Hi, I’m @chill-peppa.<br/> I’m a frontend developer from St.Petersburg, Russia.</p>
 
-- At the moment I’m studying Next.js and Redux Toolkit. Also I’m studying React in depth.
-- I’m regularly solving katas on Codewars
-- If I have free time I’m working on a pet-project [E-pass](https://github.com/e-pass/web).
+- At the moment I’m working like junior dev.
+- I’m trying my best to learn new technologies and put them into practice.
+- If you want to see some examples of my code, take a look at the [repositories tab](https://github.com/Chill-Peppa?tab=repositories).
 - If you want communicate with me just write to me on [telegram](https://t.me/chill_peppa).
 
 ## 🛠️ Technologies and Tools:
@@ -27,10 +27,6 @@
 <img src="./images/redux.svg" height="32" alt='Rudux'/>
 <img src="./images/next.svg" height="32" alt='Next.js'/>
 </div>
-
-## 📂 Portfolio:
-
-(когда-нибудь я сделаю красивое портфолио и выложу его сюда...)
 
 ## 📊 Profile stats:
 
