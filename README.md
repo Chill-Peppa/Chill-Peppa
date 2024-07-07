@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/MondoDB-293133?style=flat-square&logo=mongodb&logoColor=2472ad"/>
 <img src="https://img.shields.io/badge/Ant Design-293133?style=flat-square&logo=antdesign&logoColor=2472ad"/>
 <img src="https://img.shields.io/badge/MUI-293133?style=flat-square&logo=mui&logoColor=2472ad"/>
-<img src="https://img.shields.io/badge/JWT-293133?style=flat-square&logo=jwt&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/JWT-293133?style=flat-square&logo=jsonwebtokens&logoColor=2472ad"/>
 <img src="https://img.shields.io/badge/Cypress-293133?style=flat-square&logo=cypress&logoColor=2472ad"/>
 <img src="https://img.shields.io/badge/Jest-293133?style=flat-square&logo=jest&logoColor=2472ad"/>
 </div>
