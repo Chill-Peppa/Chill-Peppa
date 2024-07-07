@@ -10,28 +10,28 @@
 ## 🛠️ Technologies and Tools:
 
 <div style="display:flex; gap: 10px;"> 
-<img src="https://img.shields.io/badge/JavaScript-414148?style=flat-square&logo=javascript&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/HTML5-414148?style=flat-square&logo=html5&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/CSS3-414148?style=flat-square&logo=css3&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/Figma-414148?style=flat-square&logo=figma&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/SCSS-414148?style=flat-square&logo=sass&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/CSSModules-414148?style=flat-square&logo=cssmodules&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/BEM-414148?style=flat-square&logo=bem&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/Tailwind CSS-414148?style=flat-square&logo=tailwindcss&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/Webpack-414148?style=flat-square&logo=webpack&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/Vercel-414148?style=flat-square&logo=vercel&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/Git-414148?style=flat-square&logo=git&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/React-414148?style=flat-square&logo=react&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/TypeScript-414148?style=flat-square&logo=typescript&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/Redux-414148?style=flat-square&logo=redux&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/Node.js-414148?style=flat-square&logo=nodedotjs&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/Express.js-414148?style=flat-square&logo=express&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/MondoDB-414148?style=flat-square&logo=mongodb&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/Ant Design-414148?style=flat-square&logo=antdesign&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/MUI-414148?style=flat-square&logo=mui&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/JWT-414148?style=flat-square&logo=jwt&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/Cypress-414148?style=flat-square&logo=cypress&logoColor=8590c5"/>
-<img src="https://img.shields.io/badge/Jest-414148?style=flat-square&logo=jest&logoColor=8590c5"/>
+<img src="https://img.shields.io/badge/JavaScript-293133?style=flat-square&logo=javascript&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/HTML5-293133?style=flat-square&logo=html5&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/CSS3-293133?style=flat-square&logo=css3&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/Figma-293133?style=flat-square&logo=figma&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/SCSS-293133?style=flat-square&logo=sass&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/CSSModules-293133?style=flat-square&logo=cssmodules&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/BEM-293133?style=flat-square&logo=bem&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-293133?style=flat-square&logo=tailwindcss&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/Webpack-293133?style=flat-square&logo=webpack&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/Vercel-293133?style=flat-square&logo=vercel&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/Git-293133?style=flat-square&logo=git&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/React-293133?style=flat-square&logo=react&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/TypeScript-293133?style=flat-square&logo=typescript&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/Redux-293133?style=flat-square&logo=redux&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/Node.js-293133?style=flat-square&logo=nodedotjs&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/Express.js-293133?style=flat-square&logo=express&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/MondoDB-293133?style=flat-square&logo=mongodb&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/Ant Design-293133?style=flat-square&logo=antdesign&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/MUI-293133?style=flat-square&logo=mui&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/JWT-293133?style=flat-square&logo=jwt&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/Cypress-293133?style=flat-square&logo=cypress&logoColor=2472ad"/>
+<img src="https://img.shields.io/badge/Jest-293133?style=flat-square&logo=jest&logoColor=2472ad"/>
 </div>
 
 ## 📊 Profile stats:
