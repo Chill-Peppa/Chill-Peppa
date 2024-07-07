@@ -9,7 +9,7 @@
 
 ## 🛠️ Technologies and Tools:
 
-<div style="display:flex; gap: 10px;"> 
+<div style="display:flex; gap: 10px; color: #CCCCFF;"> 
 <img src="https://img.shields.io/badge/JavaScript-545454?style=for-the-badge&logo=javascript&logoColor=CCCCFF"/>
 <!-- <img src="./images/html.svg" height="32" alt='HTML'/>
 <img src="./images/css.svg" height="32" alt='CSS'/>
