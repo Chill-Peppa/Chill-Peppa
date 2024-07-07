@@ -2,7 +2,7 @@
 
 <p>Hi, I’m @chill-peppa.<br/> I’m a frontend developer from St.Petersburg, Russia.</p>
 
-- At the moment I’m working like junior dev.
+- At the moment I’m working like junior frontend dev.
 - I’m trying my best to learn new technologies and put them into practice.
 - If you want to see some examples of my code, take a look at the [repositories tab](https://github.com/Chill-Peppa?tab=repositories).
 - If you want communicate with me just write to me on [telegram](https://t.me/chill_peppa).
@@ -10,7 +10,8 @@
 ## 🛠️ Technologies and Tools:
 
 <div style="display:flex; gap: 10px;"> 
-<img src="./images/html.svg" height="32" alt='HTML'/>
+<img src="https://img.shields.io/badge/JavaScript-545454?style=for-the-badge&logo=javascript&logoColor=CCCCFF"/>
+<!-- <img src="./images/html.svg" height="32" alt='HTML'/>
 <img src="./images/css.svg" height="32" alt='CSS'/>
 <img src="./images/javascript.svg" height="32" alt='JavaScript'/>
 <img src="./images/react.svg" height="32" alt='React'/>
@@ -25,7 +26,7 @@
 <img src="./images/antdesign.svg" height="32" alt='AntDesign'/>
 <img src="./images/ts.svg" height="32" alt='TypeScript'/>
 <img src="./images/redux.svg" height="32" alt='Rudux'/>
-<img src="./images/next.svg" height="32" alt='Next.js'/>
+<img src="./images/next.svg" height="32" alt='Next.js'/> -->
 </div>
 
 ## 📊 Profile stats:
