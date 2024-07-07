@@ -10,33 +10,31 @@
 ## 🛠️ Technologies and Tools:
 
 <div style="display:flex; gap: 10px;"> 
-<img src="https://img.shields.io/badge/JavaScript-414148?style=for-the-badge&logo=javascript&logoColor=CDA4A4"/>
-<img src="https://img.shields.io/badge/HTML5-414148?style=for-the-badge&logo=html5&logoColor=CDA4A4"/>
-<img src="https://img.shields.io/badge/CSS3-414148?style=for-the-badge&logo=css3&logoColor=CDA4A4"/>
-<img src="https://img.shields.io/badge/Figma-414148?style=for-the-badge&logo=figma&logoColor=CDA4A4"/>
-<img src="https://img.shields.io/badge/SCSS-414148?style=for-the-badge&logo=sass&logoColor=CDA4A4"/>
-<img src="https://img.shields.io/badge/CSSModules-414148?style=for-the-badge&logo=cssmodules&logoColor=CDA4A4"/>
-<img src="https://img.shields.io/badge/Tailwind CSS-414148?style=for-the-badge&logo=tailwindcss&logoColor=CDA4A4"/>
-<img src="https://img.shields.io/badge/Webpack-414148?style=for-the-badge&logo=webpack&logoColor=CDA4A4"/>
-<img src="https://img.shields.io/badge/Vercel-414148?style=for-the-badge&logo=vercel&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/JavaScript-414148?style=flat-square&logo=javascript&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/HTML5-414148?style=flat-square&logo=html5&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/CSS3-414148?style=flat-square&logo=css3&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/Figma-414148?style=flat-square&logo=figma&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/SCSS-414148?style=flat-square&logo=sass&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/CSSModules-414148?style=flat-square&logo=cssmodules&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-414148?style=flat-square&logo=tailwindcss&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/Webpack-414148?style=flat-square&logo=webpack&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/Vercel-414148?style=flat-square&logo=vercel&logoColor=CDA4A4"/>
 
-<img src="https://img.shields.io/badge/Git-414148?style=for-the-badge&logo=git&logoColor=CDA4A4"/>
-<img src="https://img.shields.io/badge/React-414148?style=for-the-badge&logo=react&logoColor=CDA4A4"/>
-<img src="https://img.shields.io/badge/TypeScript-414148?style=for-the-badge&logo=typescript&logoColor=CDA4A4"/>
-<img src="https://img.shields.io/badge/Redux-414148?style=for-the-badge&logo=redux&logoColor=CDA4A4"/>
-<img src="https://img.shields.io/badge/Node.js-414148?style=for-the-badge&logo=nodedotjs&logoColor=CDA4A4"/>
-<img src="https://img.shields.io/badge/Express.js-414148?style=for-the-badge&logo=express&logoColor=CDA4A4"/>
-<img src="https://img.shields.io/badge/MondoDB-414148?style=for-the-badge&logo=mongodb&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/Git-414148?style=flat-square&logo=git&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/React-414148?style=flat-square&logo=react&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/TypeScript-414148?style=flat-square&logo=typescript&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/Redux-414148?style=flat-square&logo=redux&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/Node.js-414148?style=flat-square&logo=nodedotjs&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/Express.js-414148?style=flat-square&logo=express&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/MondoDB-414148?style=flat-square&logo=mongodb&logoColor=CDA4A4"/>
 
-<img src="https://img.shields.io/badge/Ant Design-414148?style=for-the-badge&logo=antdesign&logoColor=CDA4A4"/>
-<img src="https://img.shields.io/badge/MUI-414148?style=for-the-badge&logo=mui&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/Ant Design-414148?style=flat-square&logo=antdesign&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/MUI-414148?style=flat-square&logo=mui&logoColor=CDA4A4"/>
 
-<img src="https://img.shields.io/badge/JWT-414148?style=for-the-badge&logo=jwt&logoColor=CDA4A4"/>
-<img src="https://img.shields.io/badge/Cypress-414148?style=for-the-badge&logo=cypress&logoColor=CDA4A4"/>
-<img src="https://img.shields.io/badge/Jest-414148?style=for-the-badge&logo=jest&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/JWT-414148?style=flat-square&logo=jwt&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/Cypress-414148?style=flat-square&logo=cypress&logoColor=CDA4A4"/>
+<img src="https://img.shields.io/badge/Jest-414148?style=flat-square&logo=jest&logoColor=CDA4A4"/>
 </div>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-414148?style=for-the-badge&logo=javascript&logoColor=CDA4A4)
 
 ## 📊 Profile stats:
 
