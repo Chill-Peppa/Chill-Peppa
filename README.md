@@ -6,7 +6,7 @@
 - If you want to see some examples of my code, take a look at the [repositories tab](https://github.com/Chill-Peppa?tab=repositories).
 - If you want communicate with me just write to me on [telegram](https://t.me/chill_peppa).
 
-<!-- ## 🛠️ Technologies and Tools:
+## 🛠️ Technologies and Tools:
 
 <div style="display:flex; gap: 10px;">
 <img src="https://img.shields.io/badge/JavaScript-293133?style=flat-square&logo=javascript&logoColor=2472ad"/>
@@ -38,7 +38,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chill-peppa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://www.codewars.com/users/chill-peppa/badges/small)
-
-![](https://komarev.com/ghpvc/?username=Chill-Peppa&color=blue) -->
 
 ![](https://komarev.com/ghpvc/?username=Chill-Peppa&color=blue)
